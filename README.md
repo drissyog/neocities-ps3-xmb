@@ -1,9 +1,10 @@
-# xmb-on-web
+# neocities-ps3-xmb
 A recreation of the PS3's Cross Media Bar (XMB) interface using Vanilla JS and SCSS. 
 
 This project is a work in progress.
 
-https://menonparik.github.io/xmb-on-web/
+https://menonparik.github.io/xmb-on-web/ (original creator)
+https://drissy.neocities.org/ (my own neocities)
 
 
 
